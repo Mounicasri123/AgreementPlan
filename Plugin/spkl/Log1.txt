@@ -1,0 +1,91 @@
+16:24:58	Deploying Plugins
+16:24:58	Searching for plugin config in 'C:\Users\Srikanth\source\repos\Plugin\Plugin\spkl\..'
+16:24:59	Using Config 'C:\Users\Srikanth\source\repos\Plugin\Plugin'
+16:24:59	Checking assembly 'Cams.Xrm.Plugin.dll' for plugins
+16:24:59	2 plugin(s) found!
+16:24:59	Registering Plugin 'Cams.Xrm.Plugin' from 'C:\Users\Srikanth\source\repos\Plugin\Plugin\bin\Debug\Cams.Xrm.Plugin.dll'
+16:25:20	Adding Plugin 'Cams.Xrm.Plugin' to solution 'CAMSPlugin'
+16:25:20	Adding to solution 'CAMSPlugin'
+16:34:42	Deploying Plugins
+16:34:42	Searching for plugin config in 'C:\Users\Srikanth\source\repos\Plugin\Plugin\spkl\..'
+16:34:42	Using Config 'C:\Users\Srikanth\source\repos\Plugin\Plugin'
+16:34:42	Checking assembly 'CAMS.Xrm.Plugin.dll' for plugins
+16:34:42	2 plugin(s) found!
+16:34:44	Updating Plugin 'CAMS.Xrm.Plugin' from 'C:\Users\Srikanth\source\repos\Plugin\Plugin\bin\Debug\CAMS.Xrm.Plugin.dll'
+16:42:08	Deploying Plugins
+16:42:08	Searching for plugin config in 'C:\Users\Srikanth\source\repos\Plugin\Plugin\spkl\..'
+16:42:08	Using Config 'C:\Users\Srikanth\source\repos\Plugin\Plugin'
+16:42:08	Checking assembly 'CAMS.Xrm.Plugin.dll' for plugins
+16:42:08	2 plugin(s) found!
+16:42:10	Registering Plugin 'CAMS.Xrm.Plugin' from 'C:\Users\Srikanth\source\repos\Plugin\Plugin\bin\Debug\CAMS.Xrm.Plugin.dll'
+16:42:31	Adding Plugin 'CAMS.Xrm.Plugin' to solution 'CAMSPlugins'
+16:42:31	Adding to solution 'CAMSPlugins'
+16:42:32	Registering Type 'CAMS.Xrm.Plugin.AgreementPlanPostOperationCreate'
+16:42:33	Registering Step 'Cams.Xrm.Plugin.AgreementPlanPostOperationCreate:Create of cams_agreementplan'
+16:42:34	Adding to solution 'CAMSPlugins'
+16:42:34	Processed 1 config(s)
+16:49:50	Deploying Plugins
+16:49:50	Searching for plugin config in 'C:\Users\Srikanth\source\repos\Plugin\Plugin\spkl\..'
+16:49:50	Using Config 'C:\Users\Srikanth\source\repos\Plugin\Plugin'
+16:49:50	Checking assembly 'CAMS.Xrm.Plugin.dll' for plugins
+16:49:50	2 plugin(s) found!
+16:49:52	Updating Plugin 'CAMS.Xrm.Plugin' from 'C:\Users\Srikanth\source\repos\Plugin\Plugin\bin\Debug\CAMS.Xrm.Plugin.dll'
+16:50:13	Adding Plugin 'CAMS.Xrm.Plugin' to solution 'CAMSPlugins'
+16:50:13	Adding to solution 'CAMSPlugins'
+16:50:14	Updating Type 'CAMS.Xrm.Plugin.AgreementPlanPostOperationCreate'
+16:50:15	Updating Step 'Cams.Xrm.Plugin.AgreementPlanPostOperationCreate:Create of cams_agreementplan'
+16:50:16	Registering Image 'postImage'
+16:50:16	Adding to solution 'CAMSPlugins'
+16:50:16	Processed 1 config(s)
+16:52:14	Deploying Plugins
+16:52:14	Searching for plugin config in 'C:\Users\Srikanth\source\repos\Plugin\Plugin\spkl\..'
+16:52:14	Using Config 'C:\Users\Srikanth\source\repos\Plugin\Plugin'
+16:52:14	Checking assembly 'CAMS.Xrm.Plugin.dll' for plugins
+16:52:14	2 plugin(s) found!
+16:52:15	Updating Plugin 'CAMS.Xrm.Plugin' from 'C:\Users\Srikanth\source\repos\Plugin\Plugin\bin\Debug\CAMS.Xrm.Plugin.dll'
+16:52:38	Adding Plugin 'CAMS.Xrm.Plugin' to solution 'CAMSPlugins'
+16:52:38	Adding to solution 'CAMSPlugins'
+16:52:39	Updating Type 'CAMS.Xrm.Plugin.AgreementPlanPostOperationCreate'
+16:52:39	Updating Step 'Cams.Xrm.Plugin.AgreementPlanPostOperationCreate:Create of cams_agreementplan'
+16:52:40	Updating Image 'postImage'
+16:52:41	Adding to solution 'CAMSPlugins'
+16:52:41	Processed 1 config(s)
+16:56:57	Deploying Plugins
+16:56:57	Searching for plugin config in 'C:\Users\Srikanth\source\repos\Plugin\Plugin\spkl\..'
+16:56:57	Using Config 'C:\Users\Srikanth\source\repos\Plugin\Plugin'
+16:56:57	Checking assembly 'CAMS.Xrm.Plugin.dll' for plugins
+16:56:57	2 plugin(s) found!
+16:56:58	Updating Plugin 'CAMS.Xrm.Plugin' from 'C:\Users\Srikanth\source\repos\Plugin\Plugin\bin\Debug\CAMS.Xrm.Plugin.dll'
+16:57:20	Adding Plugin 'CAMS.Xrm.Plugin' to solution 'CAMSPlugins'
+16:57:20	Adding to solution 'CAMSPlugins'
+16:57:21	Updating Type 'CAMS.Xrm.Plugin.AgreementPlanPostOperationCreate'
+16:57:22	Updating Step 'Cams.Xrm.Plugin.AgreementPlanPostOperationCreate:Create of cams_agreementplan'
+16:57:22	Updating Image 'postImage'
+16:57:23	Adding to solution 'CAMSPlugins'
+16:57:23	Processed 1 config(s)
+17:04:17	Deploying Plugins
+17:04:17	Searching for plugin config in 'C:\Users\Srikanth\source\repos\Plugin\Plugin\spkl\..'
+17:04:17	Using Config 'C:\Users\Srikanth\source\repos\Plugin\Plugin'
+17:04:17	Checking assembly 'CAMS.Xrm.Plugin.dll' for plugins
+17:04:17	2 plugin(s) found!
+17:04:19	Updating Plugin 'CAMS.Xrm.Plugin' from 'C:\Users\Srikanth\source\repos\Plugin\Plugin\bin\Debug\CAMS.Xrm.Plugin.dll'
+17:04:40	Adding Plugin 'CAMS.Xrm.Plugin' to solution 'CAMSPlugins'
+17:04:40	Adding to solution 'CAMSPlugins'
+17:04:41	Updating Type 'CAMS.Xrm.Plugin.AgreementPlanPostOperationCreate'
+17:04:42	Updating Step 'Cams.Xrm.Plugin.AgreementPlanPostOperationCreate:Create of cams_agreementplan'
+17:04:43	Updating Image 'postImage'
+17:04:43	Adding to solution 'CAMSPlugins'
+17:04:43	Processed 1 config(s)
+17:10:03	Deploying Plugins
+17:10:03	Searching for plugin config in 'C:\Users\Srikanth\source\repos\Plugin\Plugin\spkl\..'
+17:10:03	Using Config 'C:\Users\Srikanth\source\repos\Plugin\Plugin'
+17:10:03	Checking assembly 'CAMS.Xrm.Plugin.dll' for plugins
+17:10:03	2 plugin(s) found!
+17:10:05	Updating Plugin 'CAMS.Xrm.Plugin' from 'C:\Users\Srikanth\source\repos\Plugin\Plugin\bin\Debug\CAMS.Xrm.Plugin.dll'
+17:10:27	Adding Plugin 'CAMS.Xrm.Plugin' to solution 'CAMSPlugins'
+17:10:27	Adding to solution 'CAMSPlugins'
+17:10:27	Updating Type 'CAMS.Xrm.Plugin.AgreementPlanPostOperationCreate'
+17:10:28	Updating Step 'Cams.Xrm.Plugin.AgreementPlanPostOperationCreate:Create of cams_agreementplan'
+17:10:29	Updating Image 'postImage'
+17:10:29	Adding to solution 'CAMSPlugins'
+17:10:29	Processed 1 config(s)

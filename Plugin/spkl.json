@@ -1,0 +1,9 @@
+{
+	"plugins": [
+		{
+			"profile": "default,debug",
+			"solution": "CAMSPlugins",
+			"assemblypath": "bin\\Debug"
+		}
+	]
+}
